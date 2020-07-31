@@ -1,7 +1,0 @@
-<svg width=490 height=326>
-<image width=100% height=100% href="https://github.com/r-pessoa/awari/blob/master/Adoniran-e-Elis_colorize.png?raw=True"></image>  
-<image width=100% height=100% href="https://github.com/r-pessoa/awari/blob/master/Adoniran-e-Elis_.jpg?raw=True">
-    <animate attributeName="opacity" begin="click" dur="2s" values="1;0" restart="never" fill="freeze">
-    </animate>
-  </image>
-</svg>
